@@ -3,6 +3,23 @@ body{
 }
 h1{
  color: red;
- font-size: 50px
-
+ font-size: 50px;
+ text-align: center;
+}
+a {
+   color: black;
+   background-color: red;
+   font-size: large;
+   font-weight: bold;
+   border: 5px solid red;
+}
+.logo{
+    border: 0;
+}
+#pálya {
+    background-color: red;
+    width: 1250px;
+}
+table{
+    color: red;
 }
