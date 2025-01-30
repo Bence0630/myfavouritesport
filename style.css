@@ -26,3 +26,7 @@ table{
 .kep{
     width: 500px;
 }
+p {
+    color: red;
+    font-size: large;
+}
