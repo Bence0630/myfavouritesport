@@ -30,3 +30,19 @@ p {
     color: red;
     font-size: large;
 }
+th{
+    padding: 5px 20px;
+    border: 1px solid red;
+}
+table{
+    margin: auto;
+}
+#szab{
+    background-color: red;
+    color: black;
+}
+#pálya {
+    background-color: black;
+    color: red;
+    border: none;
+}
