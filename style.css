@@ -36,10 +36,12 @@ th{
 }
 table{
     margin: auto;
+    width: 600px;
 }
 #szab{
     background-color: red;
     color: black;
+    font-weight: bold;
 }
 #pálya {
     background-color: black;
