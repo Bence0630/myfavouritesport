@@ -38,7 +38,7 @@ table{
     margin: auto;
     width: 600px;
 }
-#szab{
+.szab{
     background-color: red;
     color: black;
     font-weight: bold;
