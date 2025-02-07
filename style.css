@@ -1,5 +1,8 @@
 body{
+    background-image: url(depositphotos_117811860-stock-photo-transition-of-black-red-dots.jpg);
+    background-repeat: repeat-x;
     background-color: black;
+    background-position-y: 550px;
 }
 h1{
  color: red;
@@ -47,4 +50,11 @@ table{
     background-color: black;
     color: red;
     border: none;
+}
+#fokep{
+    float: right;
+    border: 5px solid red;
+}
+hr{
+    border: 2px solid red;
 }
